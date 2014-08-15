@@ -169,7 +169,7 @@
       <changelist id="42870097-cbf1-4320-8009-fc5149ca9604" name="Default" comment="" />
       <created>1408138752703</created>
       <updated>1408138752703</updated>
-      <workItem from="1408138754587" duration="620000" />
+      <workItem from="1408138754587" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="vcs">
       <created>1408139103245</created>
@@ -179,7 +179,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="620000" />
+    <option name="totallyTimeSpent" value="708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="35" width="1936" height="1066" extended-state="0" />
